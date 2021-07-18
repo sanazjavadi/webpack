@@ -1,0 +1,29 @@
+
+// .badge {
+//     max-height: 25px;
+//     cursor: default;
+    
+//   &.badge-primary {
+//     color: white
+//   }
+
+//   &.image-badge {
+//     width: 20px;
+//     height: 20px;
+
+//   }
+
+//   .icon {
+//       font-size: 11px;
+//   }
+// }
+
+.badge {
+  padding: 1px 11px 2px;
+  font-size: 12.025px;
+  font-weight: bold;
+  white-space: nowrap;
+  color: #ffffff;
+  background-color: #C93613;
+  border-radius: 9px;
+}

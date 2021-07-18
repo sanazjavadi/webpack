@@ -1,0 +1,22 @@
+.wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100vh;
+    .header{
+        border-bottom: 1px solid gray;
+    }
+    aside,
+    figure {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    aside {
+        padding-left: 2rem;
+    }
+}
